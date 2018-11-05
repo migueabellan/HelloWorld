@@ -3,6 +3,7 @@
     "description": "Hello world test",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.2"
     },
