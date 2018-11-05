@@ -9,7 +9,6 @@
             "email": "info@migueabellan.es"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": "^7.2"
     },
