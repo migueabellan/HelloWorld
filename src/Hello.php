@@ -1,8 +1,8 @@
 <?php 
 
-namespace Migueabellan\HelloWorld;
+namespace App\HelloWorld;
 
-class SayHello
+class Hello
 {
     public function say()
     {
