@@ -1,0 +1,14 @@
+{
+    "name": "migueabellan/hello-world",
+    "description": "Hello world test",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    }
+}
